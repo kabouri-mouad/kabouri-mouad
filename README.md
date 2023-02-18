@@ -1,5 +1,18 @@
-<h1 align="center">Hi 👋, I'm Kabouri Mouad <img alt="Coding" width="70px" height="60px" <img src="https://raw.githubusercontent.com/Ayoubbooob/Ayoubbooob/main/assets/developer.gif" width = "50" height ="40" ></h1>
+<h1 align="center">Hi 👋, I'm Kabouri Mouad <img alt="Coding" width="55px" height="45px" <img src="https://raw.githubusercontent.com/Ayoubbooob/Ayoubbooob/main/assets/developer.gif" width = "50" height ="40" ></h1>
+
 <h3 align="center">I'm a Software Engineer Student at ENSIAS. I am passionate about solving problems in the field of IT and developing solutions using the latest technologies.</h3>
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/mouad-kabouri-043741221/">
+        <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://www.instagram.com/mouad.__.kabouri/">
+        <img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+    <a href="https://www.facebook.com/mouad.kab.10/">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Profile"/>
+    </a>
+</div>
 
 - 🔭 I’m currently working on some cool projects 😉
 
