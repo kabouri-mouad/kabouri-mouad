@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kabouri Mouad <img alt="Coding" width="55px" height="45px" <img src="https://raw.githubusercontent.com/Ayoubbooob/Ayoubbooob/main/assets/developer.gif" width = "50" height ="40" ></h1>
+<h1 align="center">Hi 👋, I'm Kabouri Mouad <img alt="Coding" width="55px" height="45px" <img src="developer.gif" width = "50" height ="40" ></h1>
 
 <h3 align="center">I'm a Software Engineer Student at ENSIAS. I am passionate about solving problems in the field of IT and developing solutions using the latest technologies.</h3>
 
