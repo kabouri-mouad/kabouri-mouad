@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kabouri Mouad <img alt="Coding" width="55px" height="45px" <img src="developer.gif" width = "50" height ="40" ></h1>
 
-<h3 align="center">I'm a Software Engineer Student at ENSIAS. I am passionate about solving problems in the field of IT and developing solutions using the latest technologies.</h3>
+<h3 align="center">I'm a Software Engineer Student at ENSIAS. I'm passionate about solving problems in the field of IT and developing solutions using the latest technologies.</h3>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/mouad-kabouri-043741221/">
